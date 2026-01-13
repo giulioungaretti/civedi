@@ -1,0 +1,37 @@
+{
+  "name": "astigmatism-friendly-theme",
+  "displayName": "Astigmatism Friendly Theme",
+  "description": "A VS Code theme optimized for people with astigmatism. Features soft off-white background, dark grey text, minimal syntax highlighting (only strings and errors), reduced halation, and no glare.",
+  "version": "1.0.0",
+  "publisher": "astigmatism-friendly",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color theme",
+    "astigmatism",
+    "accessibility",
+    "low contrast",
+    "eye strain",
+    "monochrome",
+    "light theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Astigmatism Friendly",
+        "uiTheme": "vs",
+        "path": "./themes/astigmatism-friendly-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT"
+}
