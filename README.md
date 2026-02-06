@@ -1,4 +1,4 @@
-# civedi - Astigmatism Friendly Theme for VS Code
+# civedi - Astigmatism-Friendly Theme for VS Code
 
 <img src="assets/theme_icon.png" align="left" width="120" style="margin-right: 20px; margin-bottom: 10px;" alt="Astigmatism Friendly Theme Icon">
 
