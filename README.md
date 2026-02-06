@@ -1,6 +1,8 @@
-# Astigmatism Friendly Theme for VS Code
+# civedi - Astigmatism Friendly Theme for VS Code
 
 A Visual Studio Code color theme specifically designed for people with moderate to strong astigmatism. This theme reduces eye strain, prevents halation, and minimizes blur by following evidence-based accessibility guidelines.
+
+![](image.png)
 
 ## Features
 
@@ -33,24 +35,10 @@ This theme addresses all these issues by:
 | Background | Soft Off-White | #F7F7F2 |
 | Text | Very Dark Grey | #1A1A1A |
 | Comments | Medium Grey | #606060 |
-| Strings | Green | #2E7D32 |
+| Strings | Dark Grey (italic) | #404040 |
 | Errors | Red | #D32F2F |
 | Warnings | Orange | #E65100 |
 | Info | Blue | #1976D2 |
-
-## Recommended Additional Settings
-
-For optimal readability with astigmatism, consider these VS Code settings:
-
-```json
-{
-  "editor.fontSize": 14,
-  "editor.lineHeight": 1.6,
-  "editor.fontFamily": "'Segoe UI', 'Inter', 'Calibri', sans-serif",
-  "editor.fontWeight": "400",
-  "window.zoomLevel": 0.5
-}
-```
 
 ### System Settings
 
