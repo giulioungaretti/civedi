@@ -1,9 +1,10 @@
 {
-  "name": "astigmatism-friendly-theme",
-  "displayName": "Astigmatism Friendly Theme",
-  "description": "A VS Code theme optimized for people with astigmatism. Features soft off-white background, dark grey text, minimal syntax highlighting (only strings and errors), reduced halation, and no glare.",
+  "name": "civedi",
+  "displayName": "civedi - Astigmatism Friendly Theme for VS Code",
+  "description": "A monochrome VS Code theme optimized for people with astigmatism. Features soft off-white background, dark grey text, minimal syntax highlighting (only strings and errors), reduced halation, and no glare.",
   "version": "1.0.0",
-  "publisher": "astigmatism-friendly",
+  "publisher": "GiulioUngaretti",
+  "icon": "assets/theme_icon_128.png",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -31,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/giulioungaretti/civedi"
   },
   "license": "MIT"
 }

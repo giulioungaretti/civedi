@@ -359,6 +359,8 @@
       "name": "Default text - monochrome",
       "scope": [
         "source",
+           "meta.function-call.js",
+           "meta.export.default.js",
         "text"
       ],
       "settings": {
@@ -555,7 +557,6 @@
       ],
       "settings": {
         "foreground": "#1A1A1A",
-        // "fontStyle": ""
       }
     },
     {
