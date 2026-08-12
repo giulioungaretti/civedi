@@ -4,10 +4,18 @@
 
 A Visual Studio Code color theme specifically designed for people with moderate to strong astigmatism. This theme reduces eye strain, prevents halation, and minimizes blur by following evidence-based accessibility guidelines.
 
-## Screenshot 
-F#
+## Screenshots
+
+### Modern VS Code UI
+
+![civedi theme in the modern VS Code UI](assets/modern_ui.png)
+
+### F#
+
 ![](assets/image.png)
-TS
+
+### TypeScript
+
 ![](assets/image_2.png)
 
 
@@ -59,6 +67,7 @@ This theme addresses all these issues by:
 ### From VSIX (Local)
 
 1. Run `vsce package` in the extension directory
+   - If `vsce` is not installed globally, run `npx --yes @vscode/vsce@3.9.2 package`
 2. In VS Code: Extensions → `...` menu → "Install from VSIX..."
 3. Select the generated `.vsix` file
 
