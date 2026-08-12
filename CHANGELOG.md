@@ -2,6 +2,17 @@
 
 All notable changes to the "Astigmatism Friendly Theme" extension will be documented in this file.
 
+## [1.0.2] - 2026-08-12
+
+### Added
+- Theme colors for modern chat, inline chat, sticky scroll, merge editor, Command Center, and sidebar surfaces
+- Marketplace gallery banner
+
+### Changed
+- Updated the publishing workflow to Node.js 24 and pinned `@vscode/vsce`
+- Added release validation so Git tags must match the extension version
+- Reduced the packaged extension by excluding GitHub workflow files
+
 ## [1.0.0] - 2026-01-12
 
 ### Added

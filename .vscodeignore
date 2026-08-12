@@ -1,6 +1,7 @@
 .vscode/**
 .vscode-test/**
+.github/**
 .gitignore
-task.md
+Plan.md
 **/*.md
 !README.md
